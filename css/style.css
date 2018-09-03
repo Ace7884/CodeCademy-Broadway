@@ -1,15 +1,23 @@
-body {
+body{
 text-align:center;
 font-family: helvetica,sans-serif;
-}
 
-li
-,#footer {
+}
+#headingNav ,#banner{ 
+background-image: url(../imgs/the-flatiron-building.png);
+}
+#headingNav{
+    background-position:80%;
+    background-repeat: no-repeat;
+}
+li{
     list-style:none;
-
 }
-#footer{
+#footer {
     text-align:left;
-    display:inline-block;
-
+    background-color:dimgray;
+    -webkit-padding-start: 0px;
+}   
+#footer ul li{
+    display:inline;  
 }
