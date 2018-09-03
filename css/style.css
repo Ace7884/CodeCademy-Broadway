@@ -6,9 +6,10 @@ font-family: helvetica,sans-serif;
 #headingNav ,#banner{ 
 background-image: url(../imgs/the-flatiron-building.png);
 }
-#headingNav{
+#headingNav ul{
     background-position:80%;
     background-repeat: no-repeat;
+    -webkit-padding-start: 0px;
 }
 h1 ,#banner , li {
     color:white;
@@ -36,7 +37,7 @@ a {
     font-size:18px;
     color:white;
 }
-#footer {
+#footer ul {
     font-size:11px;
     text-align:left;
     background-color:dimgray;
@@ -44,4 +45,5 @@ a {
 }   
 #footer ul li{
     display:inline;  
+    
 }
