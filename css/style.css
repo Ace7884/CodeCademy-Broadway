@@ -1,0 +1,15 @@
+body {
+text-align:center;
+font-family: helvetica,sans-serif;
+}
+
+li
+,#footer {
+    list-style:none;
+
+}
+#footer{
+    text-align:left;
+    display:inline-block;
+
+}
