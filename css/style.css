@@ -1,49 +1,51 @@
-body{
-text-align:center;
-font-family: helvetica,sans-serif;
-
+body {
+  text-align: center;
+  font-family: helvetica, sans-serif;
 }
-#headingNav ,#banner{ 
-background-image: url(../imgs/the-flatiron-building.png);
+#headingNav,
+#banner {
+  background-image: url(../imgs/the-flatiron-building.png);
 }
-#headingNav ul{
-    background-position:80%;
-    background-repeat: no-repeat;
-    -webkit-padding-start: 0px;
+#headingNav ul {
+  background-position: 80%;
+  background-repeat: no-repeat;
+  -webkit-padding-start: 0px;
 }
-h1 ,#banner , li {
-    color:white;
+h1,
+#banner,
+li {
+  color: white;
 }
-h1 ,h2,h3 {
-    font-weight:bold; 
+h1,
+h2,
+h3 {
+  font-weight: bold;
 }
-h1 { 
-    font-size:70px;
+h1 {
+  font-size: 70px;
 }
-h2 { 
-    font-size:32px;
+h2 {
+  font-size: 32px;
 }
 h3 {
-    font-size:23px;    
+  font-size: 23px;
 }
 p {
-    font-size:14px;
+  font-size: 14px;
 }
-li{
-    list-style:none;
-    
+li {
+  list-style: none;
 }
 a {
-    font-size:18px;
-    color:white;
+  font-size: 18px;
+  color: white;
 }
 #footer ul {
-    font-size:11px;
-    text-align:left;
-    background-color:dimgray;
-    -webkit-padding-start: 0px;
-}   
-#footer ul li{
-    display:inline;  
-    
+  font-size: 11px;
+  text-align: left;
+  background-color: dimgray;
+  -webkit-padding-start: 0px;
+}
+#footer ul li {
+  display: inline;
 }
